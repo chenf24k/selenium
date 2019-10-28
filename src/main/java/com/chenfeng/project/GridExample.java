@@ -14,6 +14,7 @@ import java.net.URL;
  * @author 陈枫 on 2019-09-03.
  */
 public class GridExample {
+    // 第一次测试远程构建代码
     @Test
     public void testGrid() throws MalformedURLException {
         DesiredCapabilities chromeDC = DesiredCapabilities.chrome();
